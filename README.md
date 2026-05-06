@@ -80,7 +80,7 @@ Finance-Automation-Project/
 
 ### 1. Google Form Interface
 
-![Google Form](https://raw.githubusercontent.com/deeksha29-bawa/ai-finance-expense-automation-system-/main/form_view.png)
+C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot (7).png
 
 ---
 
