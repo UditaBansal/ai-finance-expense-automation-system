@@ -92,8 +92,7 @@ Finance-Automation-Project/
 
 ### 3. n8n Workflow Architecture
 
-![n8n Workflow](https://raw.githubusercontent.com/deeksha29-bawa/ai-finance-expense-automation-system-/main/workflow_diagram.png)
-
+C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot (9).png 
 ---
 
 ### 4. Email Notification Output
