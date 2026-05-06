@@ -92,7 +92,7 @@ Finance-Automation-Project/
 
 ### 3. n8n Workflow Architecture
 
-C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot (9).png 
+C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot (9).png
 ---
 
 ### 4. Email Notification Output
