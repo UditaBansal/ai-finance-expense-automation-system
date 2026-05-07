@@ -80,7 +80,7 @@ Finance-Automation-Project/
 
 ### 1. Google Form Interface
 
-C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot (7).png
+![Google Form](https://raw.githubusercontent.com/deeksha29-bawa/ai-finance-expense-automation-system-/main/form_view.png)
 
 ---
 
@@ -93,11 +93,12 @@ C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot (7).png
 ### 3. n8n Workflow Architecture
 
 C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot (9).png
+
 ---
 
 ### 4. Email Notification Output
 
-C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot (8).png
+![Email Notification](https://raw.githubusercontent.com/deeksha29-bawa/ai-finance-expense-automation-system-/main/email_notification.png)
 
 ---
 
@@ -158,7 +159,7 @@ This project shows how automation and AI-driven workflows can transform traditio
 
 ## 👩‍💼 Author
 
-**udita**
+**Udita Bansal**
 MBA Finance Student | AI in Finance Practitioner
 
 ---
