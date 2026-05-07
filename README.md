@@ -12,17 +12,17 @@ The solution eliminates manual work, reduces processing time, and provides insta
 
 Traditional expense management systems rely heavily on:
 
-* Manual data entry
-* Email approvals
-* Spreadsheet tracking
-* Delayed reporting
+- Manual data entry
+- Email approvals
+- Spreadsheet tracking
+- Delayed reporting
 
-### ❌ Challenges:
+### ❌ Challenges
 
-* High chances of errors
-* Slow reimbursement process
-* No real-time insights
-* Inefficient financial control
+- High chances of errors
+- Slow reimbursement process
+- No real-time insights
+- Inefficient financial control
 
 ---
 
@@ -40,11 +40,11 @@ This system automates the complete workflow:
 
 ## 🛠️ Tools & Technologies
 
-* Google Forms (Data Input)
-* Google Sheets (Data Storage)
-* n8n (Workflow Automation)
-* Gmail (Email Notifications)
-* Microsoft Power BI (Dashboard & Analytics)
+- Google Forms (Data Input)
+- Google Sheets (Data Storage)
+- n8n (Workflow Automation)
+- Gmail (Email Notifications)
+- Microsoft Power BI (Dashboard & Analytics)
 
 ---
 
@@ -76,58 +76,58 @@ Finance-Automation-Project/
 
 ---
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-### 1. Google Form Interface
+## 1️⃣ Google Form Interface
 
-![Google Form](https://raw.githubusercontent.com/deeksha29-bawa/ai-finance-expense-automation-system-/main/form_view.png)
-
----
-
-### 2. Google Sheet Data Capture
-
-![Google Sheet](https://raw.githubusercontent.com/deeksha29-bawa/ai-finance-expense-automation-system-/main/sheet_data.png)
+<img width="100%" alt="Google Form Interface" src="https://raw.githubusercontent.com/UditaBansal/ai-finance-expense-automation-system/main/Screenshot%20(7).png">
 
 ---
 
-### 3. n8n Workflow Architecture
+## 2️⃣ Google Sheet Data Capture
 
-C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot (9).png
+<img width="100%" alt="Google Sheet Data" src="https://raw.githubusercontent.com/UditaBansal/ai-finance-expense-automation-system/main/sheet_data.png">
 
 ---
 
-### 4. Email Notification Output
+## 3️⃣ n8n Workflow Architecture
 
-![Email Notification](https://raw.githubusercontent.com/deeksha29-bawa/ai-finance-expense-automation-system-/main/email_notification.png)
+<img width="100%" alt="n8n Workflow" src="https://raw.githubusercontent.com/UditaBansal/ai-finance-expense-automation-system/main/Screenshot%20(9).png">
+
+---
+
+## 4️⃣ Email Notification Output
+
+<img width="100%" alt="Email Notification" src="https://raw.githubusercontent.com/UditaBansal/ai-finance-expense-automation-system/main/Screenshot%20(8).png">
 
 ---
 
 ## ⭐ Key Features
 
-* Automated expense data capture
-* Real-time workflow execution
-* Instant email notifications
-* Centralized expense tracking
-* Dashboard-based insights
+- Automated expense data capture
+- Real-time workflow execution
+- Instant email notifications
+- Centralized expense tracking
+- Dashboard-based insights
 
 ---
 
 ## 📊 Business Impact
 
-* Reduced manual effort and errors
-* Faster expense processing
-* Improved transparency
-* Real-time financial insights
-* Better budgeting and control
+- Reduced manual effort and errors
+- Faster expense processing
+- Improved transparency
+- Real-time financial insights
+- Better budgeting and control
 
 ---
 
 ## 🌍 Real-World Applications
 
-* Corporate finance departments
-* Startups automating operations
-* Consulting firms
-* Shared service centers
+- Corporate finance departments
+- Startups automating operations
+- Consulting firms
+- Shared service centers
 
 ---
 
@@ -137,29 +137,31 @@ C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot (9).png
 2. Link responses to Google Sheets
 3. Build n8n workflow using Google Sheets trigger
 4. Configure Gmail node for notifications
-5. Connect dataset to Power BI for dashboard
+5. Connect dataset to Power BI for dashboard creation
 
 ---
 
 ## 🚀 Future Enhancements
 
-* Approval workflow integration
-* AI-based fraud detection
-* Budget alerts & notifications
-* Role-based dashboards
-* ERP system integration
+- Approval workflow integration
+- AI-based fraud detection
+- Budget alerts & notifications
+- Role-based dashboards
+- ERP system integration
 
 ---
 
 ## 🏁 Conclusion
 
-This project shows how automation and AI-driven workflows can transform traditional finance systems into **smart, real-time decision-making platforms**.
+This project demonstrates how automation and AI-driven workflows can transform traditional finance systems into **smart, scalable, and real-time decision-making platforms**.
 
 ---
 
-## 👩‍💼 Author
+# 👩‍💼 Author
 
-**Udita Bansal**
+## **Udita Bansal**
 MBA Finance Student | AI in Finance Practitioner
+
+- GitHub: https://github.com/UditaBansal
 
 ---
